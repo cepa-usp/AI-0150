@@ -1,0 +1,4 @@
+h1. Coleção de imagens de seres vivos
+
+Parte da atividade interativa do tópico 1 do curso de Zoologia do projeto Redefor, versão 2012. Este *não* é um objeto de aprendizagem.
+
