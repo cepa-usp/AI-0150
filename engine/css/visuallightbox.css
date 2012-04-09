@@ -110,14 +110,15 @@
 	width: auto;
 	position: relative;
 	left: 0;
-	bottom: 48px;	
-	opacity: .6;
+	bottom: 480px;
+	opacity: .8;
 }
 
 #imageData{
-	font: 12px Tahoma,Arial,Helvetica;
-	padding: 12px;
+	font: 11px Verdana,Helvetica,Tahoma,Arial;
+	padding: 11px;
 	color: #ffffff;
+	font-weight: bold;
 	background-color: #000000;
 	overflow:visible;
 	left: 10px;
@@ -129,7 +130,7 @@
 	_left: 0;	
 }
 #imageDetails{ width:100%; float:left; 	padding:0;}
-#caption{ display:block;text-align:left; }
+#caption{ display:block;text-align:left;}
 #numberDisplay{ display:none;text-align:right;}
 #detailsNav{display:none;}
 #prevLinkDetails, #nextLinkDetails, #slideShowControl{display:none;}

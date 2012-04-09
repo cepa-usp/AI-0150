@@ -14,8 +14,8 @@
 	padding:6px;	
 	border:solid 1px #b8b8b8;	
 	background-color:#f4f5f5;
-	font-family:Trebuchet,Tahoma,Arial,sans-serif;
-	font-size:11px;
+	font-family:Verdana,Trebuchet,Tahoma,Arial,sans-serif;
+	font-size:10px;
 	font-weight:normal;
 	text-decoration:none;
 	text-align:center;
@@ -28,6 +28,8 @@
 }
 #vlightbox1 .vlightbox1:hover, #vlightbox1 .vlightbox1 a:hover{
 	opacity:1;
+	font-weight: bold;
+	color: #000;
 }
 #vlightbox1 .vlightbox1 img{
 	display:block;
